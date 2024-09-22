@@ -2,4 +2,6 @@ Section 1 _ 35min - 1h13min : NavBar
 
 Section 2 _ 1h13min-1h56min :  Intro
 
-Section 3 _ 1h57min- :  Compagnies
+Section 3 _ 1h57min-2h11 :  Campanies
+
+Section 4 _ 2h11min- :  Services
