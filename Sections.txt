@@ -8,6 +8,8 @@ Section 4 _ 2h11min- 2h41min :  Services
 
 Section 5 _ 2h41min - 3h11min  :  Testimonial
 
-Section 5 _ 3h11min -3h20min   :  Frenquenly Asked Question
+Section 6 _ 3h11min -3h20min   :  Frenquenly Asked Question
 
-Section 6 _ 3h20min-   :  Portofolio
+Section 7 _ 3h20min-3h45min  :  Portofolio
+
+Section 8 _ 3h45min  :  Get Started
