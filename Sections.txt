@@ -14,4 +14,4 @@ Section 7 _ 3h20min-3h45min  :  Portofolio
 
 Section 8 _ 3h45min - 4h10min  :  Get Started
 
-Section 9 _ 4h10min - : The Footer
+Section 9 _ 4h10min - End : The Footer
